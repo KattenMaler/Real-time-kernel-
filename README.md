@@ -1,4 +1,4 @@
-# Real-time-kernel-
+# RT-kernel compilation instructtions
 Instructions as to how to compile the rt-kernel for the Raspberry pi 4b
 #Download Debian 10.7 Virtualbox
 
